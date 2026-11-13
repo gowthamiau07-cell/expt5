@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+welcomwe JNNCE
+=======
+New line from branch b1
+>>>>>>> b1
 welcomwe JNNCE
 New line from branch b1
